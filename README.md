@@ -28,6 +28,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+- You can add test but now this is default test because of learning pourpose
+- UI in dark mode
 
 
 
