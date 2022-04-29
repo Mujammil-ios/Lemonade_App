@@ -12,6 +12,9 @@ Pre-requisites
 --------------
 
 - Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
+- Complete Basic of Kotlin
+- Basic UI for better understanding
+- some loop and when condition understandig
 
 Getting Started
 ---------------
